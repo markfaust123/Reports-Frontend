@@ -1,0 +1,1 @@
+TODO: Reformat the Report component so that the details and footer ar enot pushed by the margin on the left. This means you will have to move the Name, JHED, and timestamps into their own separate component (call it X). Then, create a new component to hold the avatar and the new component X.
