@@ -4,7 +4,7 @@ This is the template for an app to help JHU research groups work more efficientl
 
 - Report submission and deletion
 
-NOTE: This template has all concepts covered up to Task 5!
+NOTE: This template has all concepts covered up to, not including, Task 6!
 
 ## Running Locally
 
